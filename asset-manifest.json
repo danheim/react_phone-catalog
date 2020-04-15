@@ -1,29 +1,31 @@
 {
   "files": {
-    "main.css": "./static/css/main.912d21a3.chunk.css",
-    "main.js": "./static/js/main.f8fc0057.chunk.js",
-    "main.js.map": "./static/js/main.f8fc0057.chunk.js.map",
+    "main.css": "./static/css/main.b05ba85d.chunk.css",
+    "main.js": "./static/js/main.85f744f5.chunk.js",
+    "main.js.map": "./static/js/main.85f744f5.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.d3a4da03.js",
     "runtime-main.js.map": "./static/js/runtime-main.d3a4da03.js.map",
-    "static/js/2.3afdc4ec.chunk.js": "./static/js/2.3afdc4ec.chunk.js",
-    "static/js/2.3afdc4ec.chunk.js.map": "./static/js/2.3afdc4ec.chunk.js.map",
+    "static/js/2.01d50954.chunk.js": "./static/js/2.01d50954.chunk.js",
+    "static/js/2.01d50954.chunk.js.map": "./static/js/2.01d50954.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.0c089247071be6e9f61e4eb11a9e9c53.js": "./precache-manifest.0c089247071be6e9f61e4eb11a9e9c53.js",
+    "precache-manifest.957a7c3e3218c096e6c6808500dbabe9.js": "./precache-manifest.957a7c3e3218c096e6c6808500dbabe9.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.912d21a3.chunk.css.map": "./static/css/main.912d21a3.chunk.css.map",
-    "static/js/2.3afdc4ec.chunk.js.LICENSE.txt": "./static/js/2.3afdc4ec.chunk.js.LICENSE.txt",
+    "static/css/main.b05ba85d.chunk.css.map": "./static/css/main.b05ba85d.chunk.css.map",
+    "static/js/2.01d50954.chunk.js.LICENSE.txt": "./static/js/2.01d50954.chunk.js.LICENSE.txt",
     "static/media/_CartThumb.scss": "./static/media/Plus.f998a5f5.svg",
     "static/media/accessories.png": "./static/media/accessories.fb001c32.png",
+    "static/media/_Pagination.scss": "./static/media/arrow-active.af956a6b.svg",
     "static/media/_PhoneDetails.scss": "./static/media/home.8c93bc4f.svg",
+    "static/media/back-arrow.svg": "./static/media/back-arrow.1600e779.svg",
     "static/media/phones.png": "./static/media/phones.3a51a487.png",
     "static/media/shopcart.svg": "./static/media/shopcart.c8a54461.svg",
-    "static/media/_Slider.scss": "./static/media/slider.5d19c6c1.png",
+    "static/media/_Slider.scss": "./static/media/slider-2.b01e111e.png",
     "static/media/tablets.png": "./static/media/tablets.a3261dff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d3a4da03.js",
-    "static/js/2.3afdc4ec.chunk.js",
-    "static/css/main.912d21a3.chunk.css",
-    "static/js/main.f8fc0057.chunk.js"
+    "static/js/2.01d50954.chunk.js",
+    "static/css/main.b05ba85d.chunk.css",
+    "static/js/main.85f744f5.chunk.js"
   ]
 }

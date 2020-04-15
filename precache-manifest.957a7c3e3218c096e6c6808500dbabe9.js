@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00a84f5c7c0059a72602ac3478ccc642",
+    "revision": "8c7da024c786d3b48af7736fcaaab457",
     "url": "./index.html"
   },
   {
-    "revision": "072da8e7a35a503b3d57",
-    "url": "./static/css/main.912d21a3.chunk.css"
+    "revision": "b67ce80f105767985b5d",
+    "url": "./static/css/main.b05ba85d.chunk.css"
   },
   {
-    "revision": "e7c79323e4eb257a67be",
-    "url": "./static/js/2.3afdc4ec.chunk.js"
+    "revision": "7feb49edc5ec0e63dc10",
+    "url": "./static/js/2.01d50954.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "./static/js/2.3afdc4ec.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.01d50954.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "072da8e7a35a503b3d57",
-    "url": "./static/js/main.f8fc0057.chunk.js"
+    "revision": "b67ce80f105767985b5d",
+    "url": "./static/js/main.85f744f5.chunk.js"
   },
   {
     "revision": "cc3dc2128bd91f0b329c",
@@ -48,12 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/accessories.fb001c32.png"
   },
   {
+    "revision": "af956a6b73f54ae98e5427fd77249cb4",
+    "url": "./static/media/arrow-active.af956a6b.svg"
+  },
+  {
     "revision": "b8e2edcf4a6b6bdc3f62700a8eed96d8",
     "url": "./static/media/arrow-gr.b8e2edcf.svg"
   },
   {
     "revision": "6da4f5192e45db4de6412d3569a2a464",
     "url": "./static/media/arrow.6da4f519.svg"
+  },
+  {
+    "revision": "1600e779bbaea51d8011b6dda6f79a33",
+    "url": "./static/media/back-arrow.1600e779.svg"
   },
   {
     "revision": "8d884803928628aa7b15861d143e5ee0",
@@ -77,7 +85,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "5d19c6c1410e5f0985fda18299d1688c",
-    "url": "./static/media/slider.5d19c6c1.png"
+    "url": "./static/media/slider-0.5d19c6c1.png"
+  },
+  {
+    "revision": "4ddd3bfc1d99b683ad71eaa8bfffba41",
+    "url": "./static/media/slider-1.4ddd3bfc.png"
+  },
+  {
+    "revision": "b01e111e83df85bd21677cd433a799c8",
+    "url": "./static/media/slider-2.b01e111e.png"
   },
   {
     "revision": "a3261dffea3477d49e32f89c1d62d8c1",
